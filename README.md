@@ -1,2 +1,2 @@
 # project1
-Git repository for education
+Git repository for education...
